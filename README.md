@@ -17,7 +17,7 @@ As the physical size of recent CMOS image sensors (CIS) gets smaller, the latest
 The three pickle files in `data` are the samples after **r-CM**.
 
 ## weights
-Download **pretrained** KLAP weight for meta-test. `KLAP_epoch250_psnr41.364_ssim0.976` is a KLAP weight for meta-test. You can download [here]([https://ignoww.github.io/KLAP_project](https://drive.google.com/file/d/18Rg8ozcbqwHiuHcJWkSnm4aFKIWYuOaE/view?usp=sharing))
+Download **pretrained** KLAP weight for meta-test. You can download `KLAP_epoch250_psnr41.364_ssim0.976` [here](https://drive.google.com/file/d/18Rg8ozcbqwHiuHcJWkSnm4aFKIWYuOaE/view?usp=sharing)
 
 ## Demo
 ```.bash
