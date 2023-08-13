@@ -6,7 +6,7 @@
  
 > **Efficient Unified Demosaicing for Bayer and Non-Bayer Patterned Image Sensors**<br>
 > Haechang Lee*, Dongwon Park*, [Wongi Jeong](https://ignoww.github.io)*, Kijeong Kim, Hyunwoo Je, Dongil Ryu, [Se Young Chun](https://icl.snu.ac.kr/pi) (*co-first) <br>
-> **ICCV 2023** <br>
+> **[ICCV 2023]** <br>
 > 
 > [ignoww.github.io/KLAP_project](https://ignoww.github.io/KLAP_project)
 > 
