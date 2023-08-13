@@ -1,0 +1,1 @@
+python test_KLAP_DF2K.py  --save-dir "./experiments/KLAP" --gpu_num 0  --mode quad  --pre_train ./weights/KLAP_epoch_250_psnr41.364_ssim0.976 --lr '2e-4' --lambda_n2s 2e-2  --lambda_reg 1
