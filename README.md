@@ -32,10 +32,11 @@ The results are saved to `./experiments/"save-dir"`.
 ## Citation
 
 ```
-@article{lee2023efficient,
-      title={Efficient Unified Demosaicing for Bayer and Non-Bayer Patterned Image Sensors},
-      author={Lee, Haechang and Park, Dongwon and Jeong, Wongi and Kim, Kijeong and Je, Hyunwoo and Ryu, Dongil and Chun, Se Young},
-      journal={arXiv preprint arXiv:2307.10667},
-      year={2023}
-    }
+@inproceedings{lee2023efficient,
+  title={Efficient Unified Demosaicing for Bayer and Non-Bayer Patterned Image Sensors},
+  author={Lee, Haechang and Park, Dongwon and Jeong, Wongi and Kim, Kijeong and Je, Hyunwoo and Ryu, Dongil and Chun, Se Young},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12750--12759},
+  year={2023}
+}
 ```
