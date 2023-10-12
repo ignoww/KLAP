@@ -3,7 +3,7 @@
 
 [![project_page](https://img.shields.io/badge/-project%20page-green)](https://ignoww.github.io/KLAP_project/)
 [![arXiv](https://img.shields.io/badge/arXiv-2211.16374-red)](https://arxiv.org/abs/2307.10667) 
-[![paper](https://img.shields.io/badge/arXiv-2211.16374-red)](https://arxiv.org/abs/2307.10667) 
+[![arXiv](https://img.shields.io/badge/paper-ICCV2023-cyan)](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)
 > **Efficient Unified Demosaicing for Bayer and Non-Bayer Patterned Image Sensors**<br>
 > Haechang Lee*, Dongwon Park*, [Wongi Jeong](https://ignoww.github.io)*, Kijeong Kim, Hyunwoo Je, Dongil Ryu, [Se Young Chun](https://icl.snu.ac.kr/pi) (*co-first) <br>
 > **[ICCV 2023]** <br>
